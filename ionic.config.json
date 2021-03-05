@@ -1,0 +1,7 @@
+{
+  "name": "fasterfaster",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
